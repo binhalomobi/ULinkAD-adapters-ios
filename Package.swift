@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ULinkMediatomAdapterBinary",
-            url: "https://github.com/binhalomobi/ULinkAD-adapters-ios/releases/download/1.1.0/ULinkMediatomAdapter-1.0.1.zip",
-            checksum: "07b335aced8dedd21414f24db5b439ee37dba324892577a3ff5e69c252bbb5c5"
+            url: "https://github.com/binhalomobi/ULinkAD-adapters-ios/releases/download/1.2.0/ULinkMediatomAdapter-1.0.2.zip",
+            checksum: "795e9ddd69aff3d21dbae0d355bf5ee5852e2902802b49a2a2d59e0d4b92be00"
         ),
         .target(
             name: "ULinkMediatomAdapterWrapper",
@@ -34,8 +34,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ULinkTakuAdapterBinary",
-            url: "https://github.com/binhalomobi/ULinkAD-adapters-ios/releases/download/1.1.0/ULinkTakuAdapter-1.0.0.zip",
-            checksum: "ad5e7b4e8fd8052fe8d940152f31b4f30e43b175ca2ba853d3a66a835184cad6"
+            url: "https://github.com/binhalomobi/ULinkAD-adapters-ios/releases/download/1.2.0/ULinkTakuAdapter-1.0.1.zip",
+            checksum: "2a392ce9cea0cf1dd8f24aaf1952c61fa6c9d3e2f9a4fae191e7a73cc851a3d1"
         ),
         .target(
             name: "ULinkTakuAdapterWrapper",
